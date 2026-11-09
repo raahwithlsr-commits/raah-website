@@ -1,4 +1,3 @@
-
 const IMG={hero:'images/hero.jpg',main:'images/main.jpg',back:'images/back.jpg',old:'images/old.jpg',nw:'images/nw.jpg',ex:'images/ex.jpg',pr:'images/pr.jpg',aud:'images/aud.jpg',ref:'images/ref.jpg',port:'images/port.jpg',shk:'images/shk.png',bwl:'images/bwl.png',cmenu:'images/cmenu.jpg',nmenu1:'images/nmenu1.jpg',nmenu2:'images/nmenu2.jpg',cexp:'images/cexp.jpg',nexp:'images/nexp.jpg',nfull:'images/nfull.jpg',o0:'images/o0.jpg',o1:'images/o1.jpg',o2:'images/o2.jpg',e0:'images/e0.jpg',n0:'images/n0.jpg',n1:'images/n1.jpg',n2:'images/n2.jpg',n3:'images/n3.jpg'};
 const B={o:{n:'Old Building',f:['Ground Floor','First Floor','Second Floor'],d:'Classrooms, labs, library, admin offices and the auditorium'},
 n:{n:'New Building',f:['Ground Floor','First Floor','Second Floor','Third Floor'],d:'Classrooms G1–G4, 101–304, media lab, medical room and the amphitheatre'},
